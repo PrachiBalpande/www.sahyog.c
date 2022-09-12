@@ -1,0 +1,60 @@
+
+ 
+ 
+ 
+ .main{
+   height:500px;
+   width:1440px; 
+   position: absolute;
+   top: auto;   
+ }
+ .header{
+     height:50px;
+     width:1440px;
+     background-color: crimson;
+     
+     
+ 
+ }
+  .header h2{
+     text-align: center;
+     color: azure;
+     font-style: italic;
+     font-weight: bolder;
+     font-size: 40px;
+     text-shadow: 2px 2px black;
+     
+ }
+ .container{
+     height: 450px;
+     width:1440px;
+     background-color:wheat;
+ 
+ }
+ .nav{
+     height:450px ;
+     width:400px;
+     background-color: chartreuse;
+     float: left;
+     position:absolute;
+     
+ }
+ .nav h1{
+     text-align: center;
+     margin-top: 150px;
+     text-shadow: 3px 3px white;
+ }
+ .section{
+     height: 450px;
+     width:1040px;
+     background-color: slateblue;
+     float: left;
+     margin-left: 400px;
+ }
+ .section h1{
+     text-align: center;
+     margin-top: 150px;
+ 
+     text-shadow: 3px 3px white;
+ }
+ 
